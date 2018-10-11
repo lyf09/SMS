@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JW_3_SMS"
+  id="myeclipse.1499222413413"
+  context-root="/JW_1_SMS"
+  j2ee-spec="5.0"
+  archive="JW_3_SMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
